@@ -10,3 +10,7 @@
 ```bash
 sudo python3 panda-spider
 ```
+
+## 演示
+
+![image](https://github.com/godkun/python-spiders/blob/master/docs/panda-spider.gif)
