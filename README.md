@@ -8,7 +8,7 @@
 
 ## 使用
 ```bash
-sudo python3 panda-spider
+sudo python3 panda-spider.py
 ```
 
 ## 演示
